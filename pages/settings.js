@@ -3,7 +3,7 @@ import usePageTitle from "@/core/hooks/usePageTitle";
 import Head from "next/head";
 import { Fragment } from "react";
 
-export default function Home() {
+export default function Settings() {
   const pageTitle = usePageTitle()
 
   return (
